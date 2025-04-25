@@ -13,7 +13,7 @@ A responsive and interactive Hero Section built with React. It features editable
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/hero-section.git
+   git clone https://github.com/MoatazMohamedd/hero-section.git
    cd hero-section
 
 2. **Install dependencies**
@@ -31,4 +31,4 @@ A responsive and interactive Hero Section built with React. It features editable
    Navigate to: http://localhost:3000
 
 ## 📹 Loom Video
-https://www.loom.com/share/69f769b178ab4f159e91b769464ad801?sid=c0864503-cfaf-4c79-b2ce-d750d2a15b74
+https://www.loom.com/share/69f769b178ab4f159e91b769464ad801?sid=07a4d1d2-9bf5-4cd2-a9ec-08a551035322
