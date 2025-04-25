@@ -15,3 +15,20 @@ A responsive and interactive Hero Section built with React. It features editable
    ```bash
    git clone https://github.com/your-username/hero-section.git
    cd hero-section
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   npm install framer-motion
+   npm install lucide-react
+
+3. **Start the development server**
+   ```bash
+   npm start
+
+4. **Open in your browser**
+   ```bash
+   Navigate to: http://localhost:3000
+
+## 📹 Loom Video
+https://www.loom.com/share/69f769b178ab4f159e91b769464ad801?sid=c0864503-cfaf-4c79-b2ce-d750d2a15b74
